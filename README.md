@@ -58,6 +58,7 @@ It provides quick tools for:
 ---
 
 ## 📂 Project Structure | هيكلة المشروع
+
 text-transformer/
 │
 ├── index.html
@@ -87,9 +88,9 @@ Simply open `index.html` in your browser.
 
 ## 👨‍💻 Author | المطور
 
-Built by a passionate developer learning frontend development.
+It was developed by the developer Ahmed Djabrane Mammadi, a developer learning front-end web development.
 
-تم تطويره من طرف مطور يتعلم تطوير الويب الأمامي.
+تم تطويره من طرف المطور أحمد جبران ممادي مطور يتعلم تطوير الويب الأمامي.
 
 ---
 
